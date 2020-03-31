@@ -1,0 +1,18 @@
+---
+title: "Lab1_markdown"
+author: "Danny Truong"
+date: "3/30/2020"
+output: html_document
+---
+
+bold: **text**
+
+italics: *text*
+
+both italics and bold: ***text***
+
+# Heading
+
+- hi
+- hi
+- hi
